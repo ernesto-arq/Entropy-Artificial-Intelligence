@@ -85,4 +85,4 @@ Note: This analysis does not focus on information security, bandwidth management
 * Client behavior: The simulation assumes that clients will complete the assigned task when ordered to train. Events such as battery failure, power failure, network outage, loss of connection, decision to abandon the training process, or damage to the equipment that prevents communication and task execution during the activity are not considered.
 
 **Important note**  
-Changing the logarithmic base may increase performance on some models (change by increasing or decreasing).
+Changing the logarithmic base may increase performance on some models (granularity of description).
